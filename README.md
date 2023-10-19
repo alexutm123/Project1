@@ -13,6 +13,7 @@ Get account with id
 
 Update
 ![put](https://github.com/alexutm123/Project1/blob/main/readmipfoto/put1.jpg)
+
 result
 ![put](https://github.com/alexutm123/Project1/blob/main/readmipfoto/put2.jpg)
 
