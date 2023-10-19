@@ -10,3 +10,11 @@ Find all
 
 Get account with id
 ![getid](https://github.com/alexutm123/Project1/blob/main/readmipfoto/getid.png)
+
+Update
+![put](https://github.com/alexutm123/Project1/blob/main/readmipfoto/put1.jpg)
+result
+![put](https://github.com/alexutm123/Project1/blob/main/readmipfoto/put2.jpg)
+
+Delete
+![put](https://github.com/alexutm123/Project1/blob/main/readmipfoto/delete.jpg)
